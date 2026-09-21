@@ -2,6 +2,8 @@
 
 I build systems that run themselves.
 
+🌐 **[kev-hamm.github.io](https://kev-hamm.github.io)** — resume, projects, one-page PDF
+
 Most of my work is multi-agent infrastructure — an orchestration gateway where specialist agents claim work off a Kanban board, hand off through scored confidence gates, and ship without me babysitting them. About 1,000 commits and 6,000 files of Python, TypeScript and systemd holding it together.
 
 **Currently building**
@@ -15,7 +17,7 @@ Most of my work is multi-agent infrastructure — an orchestration gateway where
 
 - [blueoasis.us](https://blueoasis.us) — companion care, live
 - [beaufordandsons.com](https://beaufordandsons.com) — live
-- [KevCreates](https://github.com/Kev-Hamm/kevcreates-portfolio) — AI manga & comic production
+- [KevCreates](https://kev-hamm.github.io/kevcreates-portfolio/) — AI manga & comic production, live
 
 **Stack:** Python · TypeScript · Bash/systemd · SQLite · Unity · Linux
 
