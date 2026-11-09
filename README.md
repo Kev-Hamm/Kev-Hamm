@@ -17,7 +17,6 @@ Most of my work is multi-agent infrastructure — an orchestration gateway where
 
 - [blueoasis.us](https://blueoasis.us) — companion care, live
 - [beaufordandsons.com](https://beaufordandsons.com) — live
-- [KevCreates](https://kev-hamm.github.io/kevcreates-portfolio/) — AI manga & comic production, live
 
 **Stack:** Python · TypeScript · Bash/systemd · SQLite · Unity · Linux
 
